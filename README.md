@@ -5,9 +5,9 @@ a collection of public books and materials about car hacking. All copyright belo
 
 Books: 
 
-https://www.amazon.co.uk/Car-Hacking-Handbook-Craig-Smith-x
+https://www.amazon.co.uk/Car-Hacking-Handbook-Craig-Smith-x/dp/1593277032
 
-https://www.amazon.co.uk/Comprehensible-Guide-Controller-Area-Network
+https://www.amazon.co.uk/Comprehensible-Guide-Controller-Area-Network/dp/0976511606
 
 
 Reddit: 
