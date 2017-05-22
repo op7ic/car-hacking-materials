@@ -1,7 +1,9 @@
 a collection of public books and materials about car hacking. All copyright belong to corresponding authors.
 
 
+Awesome content list: 
 
+https://github.com/jaredthecoder/awesome-vehicle-security
 
 Books: 
 
